@@ -1,0 +1,14 @@
+// package.json
+{
+  "name": "helmet-express-app",
+  "version": "1.0.0",
+  "description": "Express app using Helmet",
+  "main": "myApp.js",
+  "scripts": {
+    "start": "node myApp.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "3.21.3"
+  }
+}
